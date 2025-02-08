@@ -1,7 +1,7 @@
 const Page = () => {
     return ( 
         <div>
-            Feed Page!
+            Feed Page
         </div>
      );
 }
